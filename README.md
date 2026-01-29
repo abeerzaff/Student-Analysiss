@@ -1,4 +1,4 @@
-# Student-Analysiss
+# Student-Analysis — Sleep Health & Lifestyle Analytics Dashboard
 This project is a Streamlit-based interactive dashboard designed to analyze the relationships between sleep patterns, lifestyle habits, and health metrics. The analysis leverages the Sleep Health and Lifestyle Dataset, which includes data on age, gender, stress levels, physical activity, sleep disorders, BMI, sleep duration, and sleep quality. By exploring this data, the dashboard uncovers actionable insights such as the effects of stress on sleep duration, the role of physical activity in enhancing sleep quality, and the prevalence of sleep disorders.
 
 The dashboard features various visualizations, such as histograms, scatter plots, box plots, and pie charts, to present the findings in an intuitive and engaging manner. It also includes age group categorizations, correlation analyses, and breakdowns by BMI and gender. The project aims to provide a comprehensive understanding of the factors influencing sleep health, offering valuable insights for individuals, researchers, and health professionals seeking to optimize sleep and improve overall well-being.
